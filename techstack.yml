@@ -1,0 +1,18 @@
+repo_name: ThisIsSimple/goQuality-dev-contents
+report_id: 1c4cf6cc1a322536575f7be28687d7d8
+repo_type: Public
+timestamp: '2023-11-30T18:25:49+00:00'
+requested_by: ThisIsSimple
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
